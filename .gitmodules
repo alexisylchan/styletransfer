@@ -1,0 +1,3 @@
+[submodule "stylemodels"]
+	path = stylemodels
+	url = git@github.com:alexisylchan/stylemodels.git
